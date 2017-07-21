@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kalpesh\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Custom Make Library\Final\GalleryLib\app\build\intermediates\pre-dexed\debug\glide-3.7.0_eb506713bcaaada2390d32c619ee4dd217d4729f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kalpesh\.android\build-cache\a0fffdd337951fa92d2da59eaac2a81c63d5bf56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\Custom Make Library\Final\GalleryLib\app\build\intermediates\pre-dexed\debug\classes_7c7aa8abd0aa8804d2ce09aff356264fb41a4592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kalpesh\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\1.3.2\b6dde38349ba9bb5e6ea6320531eae969985dae5\commons-io-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="D:\Custom Make Library\Final\GalleryLib\app\build\intermediates\pre-dexed\debug\commons-io-1.3.2_ecac7d97b46a957f806ab03806539fd3d61fd219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Custom Make Library\Final\GalleryLib\gallerylibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba22f7d439a99995b090e4df7f753fc79d8241ec">
+        <dex dex="D:\Custom Make Library\Final\GalleryLib\app\build\intermediates\pre-dexed\debug\classes_c832d5e1ded67c638e403635699568e974ee391f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kalpesh\.android\build-cache\1861c5294de106ea9e629188b5105c01bf92f9c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\Custom Make Library\Final\GalleryLib\app\build\intermediates\pre-dexed\debug\classes_8ebb026e595729e3350b9a89e8f2e63cfa309a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kalpesh\.android\build-cache\68a317177a49cde930999ee140128067ccf0304f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\Custom Make Library\Final\GalleryLib\app\build\intermediates\pre-dexed\debug\classes_3e55b57bccfb44680a33209afca04c5afa3e4141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kalpesh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Custom Make Library\Final\GalleryLib\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_49a703f471bb937f7671a78a6ab22ae99837d6b2.jar" />
+    </item>
+
+</items>
